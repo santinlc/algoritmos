@@ -1,2 +1,2 @@
 # algoritmos
-Implementação de algoritmos famosos em python puro e utilizando bibliotecas
+Implementação de algoritmos de IA em python puro e utilizando bibliotecas
